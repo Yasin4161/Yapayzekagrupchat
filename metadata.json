@@ -1,0 +1,7 @@
+{
+  "name": "AI Grup Sohbeti",
+  "description": "Birden fazla yapay zeka modelinin aynı grupta olduğu, kullanıcının istediği modelden cevap alabildiği interaktif bir sohbet platformu.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
